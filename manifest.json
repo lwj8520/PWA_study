@@ -1,0 +1,17 @@
+{
+  "background_color": "none",
+  "dir": "auto",
+  "display": "standalone",
+  "name": "1만 시간의 법칙",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "시간의 법칙",
+  "start_url": "https://lwj8520.github.io/PWA_study/",
+  "theme_color": "none",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "img/favicon.ico"
+    }
+  ]
+}
